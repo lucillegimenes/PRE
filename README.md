@@ -1,5 +1,5 @@
 # PRE
-
+test git 
 D_G_main.m : set the dimensional trait space, calculates states variables (investments, affinities), calls an ODE and an ODE function to solve the differential equations 
 
 D_G_ode_func.m : computes for each time step growth, mortality rates and the differential equations governing biomass and nutrients concentration evolution
